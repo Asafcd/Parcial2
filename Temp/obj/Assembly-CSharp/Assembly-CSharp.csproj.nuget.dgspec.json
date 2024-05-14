@@ -1,0 +1,623 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Assembly-CSharp.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//Assembly-CSharp/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonChat.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonChat.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Demos.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Demos.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Editor.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Editor.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.Culling.Editor.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.Culling.Editor.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoHubEditor.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoHubEditor.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoSlotcarEditor.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoSlotcarEditor.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonChat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonChat.csproj",
+        "projectName": "PhotonChat",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonChat.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PhotonChat/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj",
+        "projectName": "PhotonRealtime",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PhotonRealtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj",
+        "projectName": "PhotonUnityNetworking",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PhotonUnityNetworking/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Demos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Demos.csproj",
+        "projectName": "PhotonUnityNetworking.Demos",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Demos.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PhotonUnityNetworking.Demos/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Editor.csproj",
+        "projectName": "PhotonUnityNetworking.Editor",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Editor.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PhotonUnityNetworking.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj",
+        "projectName": "PhotonUnityNetworking.Utilities",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PhotonUnityNetworking.Utilities/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.Culling.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.Culling.Editor.csproj",
+        "projectName": "PhotonUnityNetworking.Utilities.Culling.Editor",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.Culling.Editor.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PhotonUnityNetworking.Utilities.Culling.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj",
+        "projectName": "PhotonUnityNetworking.Utilities.PhotonPlayer.Editor",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PhotonUnityNetworking.Utilities.PhotonPlayer.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Editor.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Editor.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoHubEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoHubEditor.csproj",
+        "projectName": "PunDemos.DemoHubEditor",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoHubEditor.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PunDemos.DemoHubEditor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonRealtime.csproj"
+              },
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoSlotcarEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoSlotcarEditor.csproj",
+        "projectName": "PunDemos.DemoSlotcarEditor",
+        "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PunDemos.DemoSlotcarEditor.csproj",
+        "packagesPath": "/Users/asafcontreras/.nuget/packages/",
+        "outputPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/Temp/obj//PunDemos.DemoSlotcarEditor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/asafcontreras/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Demos.csproj": {
+                "projectPath": "/Users/asafcontreras/Documents/IDTS/Semestre VIII/Unity/Parcial2/PhotonUnityNetworking.Demos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
